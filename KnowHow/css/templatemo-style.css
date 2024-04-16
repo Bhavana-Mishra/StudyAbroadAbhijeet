@@ -958,7 +958,7 @@ footer .social-icon {
     display: flex;
     /* position: static; */
     padding-top: 10px;
-  flex-direction: column;
+  flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
     
